@@ -1,0 +1,14 @@
+var a = 55;
+console.log(typeof a);
+var b = "Rahul";
+console.log(typeof b);
+var c = true;
+console.log(typeof c);
+var j = 45;
+console.log(j);
+var k = "saini";
+console.log(k);
+var p = false;
+console.log(p);
+var q = true;
+console.log(q);

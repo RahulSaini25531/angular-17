@@ -1,0 +1,10 @@
+#movies{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 5px;
+    overflow-x: visible;
+    box-shadow: 5px 5px 5px black;
+    background-color: white;
+    
+}
+

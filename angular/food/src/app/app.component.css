@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+}
+#div1{
+    display: flex;
+   gap: 10px;
+    
+}

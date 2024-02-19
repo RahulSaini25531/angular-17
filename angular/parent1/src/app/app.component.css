@@ -1,0 +1,36 @@
+header{
+   height: 80px;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 150px;
+    
+   
+}
+.c1
+{
+    border-radius: 15px;
+    height: 40px;
+    width: 100px;
+    
+}
+.c1:hover{
+   height: 70px;
+   width: 150px;
+   border-radius: 20px;
+}
+.div2{
+    margin-top: 10px;
+}
+
+.div3{
+    height: 500px;
+     background-color: rgb(54, 212, 30);
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     gap: 150px;
+     
+    
+ }

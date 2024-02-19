@@ -1,0 +1,38 @@
+
+.div2{
+    
+    height: 150px;
+     background-color: cyan;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     gap: 80px;
+     
+    
+ }
+ .c2
+{
+    border-radius: 15px;
+    height: 40px;
+    width: 80px;
+    
+}
+.c2:hover{
+   height: 50px;
+   width: 150px;
+   border-radius: 30px;
+}
+
+
+.div1{
+    padding-top: 15px ;
+    height: 150px;
+     background-color: antiquewhite;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     gap: 80px;
+     margin-top: 20px;
+     
+    
+ }

@@ -1,0 +1,18 @@
+<div class="div1">
+    <h1>Print Days</h1>
+<label for=""><h1>Enter Number between 0 to 6</h1></label><br><br>
+<input type="number" [(ngModel)]="value">
+<h2>Output :</h2>
+<h3>
+<div [ngSwitch]="value">
+<p *ngSwitchCase='0'><Strong>Subday</Strong></p>
+<p *ngSwitchCase='1' ><Strong>monday</Strong></p>
+<p *ngSwitchCase='2'><Strong>Satueday</Strong></p>
+<p *ngSwitchCase='3'><Strong>wednesday</Strong></p>
+<p *ngSwitchCase='4'><Strong>Thrusday</Strong></p>
+<p *ngSwitchCase='5'><Strong>Friday</Strong></p>
+<p *ngSwitchCase='6'><Strong>Satueday</Strong></p>
+<p *ngSwitchDefault="">Wrong input</p> 
+</div>
+</h3>
+</div>
